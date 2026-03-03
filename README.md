@@ -82,12 +82,12 @@ sistema-gestion-empresa-poo/
 
 ## Contexto académico
 
-Proyecto desarrollado para el **Parcial del 3er corte** de la materia de Programación Orientada a Objetos. El objetivo fue aplicar los pilares de POO en un sistema funcional de consola.
+Proyecto desarrollado para el **Parcial** de la materia de Programación Orientada a Objetos. El objetivo fue aplicar los pilares de POO en un sistema funcional de consola.
 
 ---
 
 ## Autor
 
 **Alejandro Cruz Castañeda**  
-Estudiante de Ingenieria de sistemas — MInuto de Dios
+Estudiante de Ingenieria de Sistemas — Minuto de Dios
 
