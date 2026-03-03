@@ -1,10 +1,10 @@
-# 🏢 Sistema de Gestión Organizacional — POO en Python
+# Sistema de Gestión Organizacional — POO en Python
 
 Proyecto desarrollado como parte del aprendizaje de **Programación Orientada a Objetos (POO)** en Python. Simula el sistema interno de una organización llamada **ALECRU**, permitiendo gestionar empleados, directivos y clientes desde consola.
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 El sistema cuenta con dos áreas principales:
 
@@ -15,7 +15,7 @@ Cada área permite **agregar, listar, buscar, modificar y eliminar** registros.
 
 ---
 
-## 🧠 Conceptos de POO aplicados
+## Conceptos de POO aplicados
 
 - **Herencia**: `empleado` y `directivo` heredan de la clase padre `persona`.
 - **Encapsulamiento**: atributos privados con métodos `get` y `set`.
@@ -24,7 +24,7 @@ Cada área permite **agregar, listar, buscar, modificar y eliminar** registros.
 
 ---
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 ```
 sistema-gestion-empresa-poo/
@@ -41,7 +41,7 @@ sistema-gestion-empresa-poo/
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 ### Empleados
 - Registrar nombre, edad y sueldo bruto
@@ -58,7 +58,7 @@ sistema-gestion-empresa-poo/
 
 ---
 
-## ▶️ Cómo ejecutar
+## Cómo ejecutar
 
 1. Clona el repositorio:
    ```bash
@@ -75,12 +75,12 @@ sistema-gestion-empresa-poo/
    python main.py
    ```
 
-> ⚠️ Requiere Python 3.x. No necesita librerías externas.  
-> ⚠️ Diseñado para ejecutarse en consola de Windows (`os.system("cls")` y `"pause"`).
+>  Requiere Python 3.x. No necesita librerías externas.  
+>  Diseñado para ejecutarse en consola de Windows (`os.system("cls")` y `"pause"`).
 
 ---
 
-## 📚 Contexto académico
+## Contexto académico
 
 Proyecto desarrollado para el **Parcial del 3er corte** de la materia de Programación Orientada a Objetos. El objetivo fue aplicar los pilares de POO en un sistema funcional de consola.
 
