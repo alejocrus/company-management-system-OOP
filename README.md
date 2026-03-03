@@ -86,7 +86,7 @@ Proyecto desarrollado para el **Parcial del 3er corte** de la materia de Program
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Alejandro Cruz Castañeda**  
 Estudiante de Ingenieria de sistemas — MInuto de Dios
