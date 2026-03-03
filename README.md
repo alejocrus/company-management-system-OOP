@@ -62,7 +62,7 @@ sistema-gestion-empresa-poo/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/sistema-gestion-empresa-poo.git
+   [git clone https://github.com/tu-usuario/sistema-gestion-empresa-poo.git](https://github.com/alejocrus/company-management-system-OOP.git)
    ```
 
 2. Entra a la carpeta:
